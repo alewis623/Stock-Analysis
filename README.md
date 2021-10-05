@@ -30,4 +30,15 @@ The original script that was developed in the course work delivered the 2017 res
 	   Dim tickerStartingPrices As Single
 	   Dim tickerEndingPrices As Single
      These are logical choices based on the need to create arrays. I was not able to see how these were used. See the example below: 
+     --
+     <img width="341" alt="Snip from class work" src="https://user-images.githubusercontent.com/90878901/135953798-04750fda-bdb9-4a79-b031-0d1637c0274c.png">
+--
+you can see this is referencing the Ticker, Total Daily Volume and the percent return. Was this project to deliver the ticker Volumes in replacement for Total Volumes. I was un able to decern the request from the materials. From there, I researched the concept of creating index on on sites such as these: 
+https://www.wallstreetmojo.com/vba-index-match/#:~:text=%20%20%201%20Step%201%3A%20Start%20the,programming%20languages%2C%20where%20there%20is%20a...%20More%20
+http://www.excelexperts.com/VBA-Tips-Create-An-Index-Page
+https://sourcedaddy.com/ms-excel/auto-generate-an-index-using-vba.html
+https://stackoverflow.com/questions/44349657/how-to-use-column-row-index-as-range-in-vba
+However I was unable to scuccessfully create the steps necessary to properly develop the tickerIndex as an index and thus the rest of the code faltered. 
+### Conclusion
+While given the challenge a logical assumption could be made that refractorying was a faster step. Based on the amount of time it took to develop the code and the short amount of time to run the orginal code. The recomendation in this case would be to use the original code until more skills are developed to use VBA. 
      
