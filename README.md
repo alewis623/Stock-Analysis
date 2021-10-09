@@ -115,7 +115,7 @@ End Sub
 
  ### Code Development Process
  --
- Of course the work on canvas helped develop the orginal code. The refractoring was a very difficult challenge for me and took considerable hours including reaching out to TA's, class mates, office hours, online research (https://stackoverflow.com/, https://docs.microsoft.com/en-us/office/vba/Language/Concepts/Getting-Started/understanding-visual-basic-syntax and https://excelchamps.com/vba/subscript-out-of-range-error-9/ as online examples. I also reached out out to Ask BCS. The final error was due to the missplaced ending of an nested if. 
+ Of course the work on canvas helped develop the orginal code. The refractoring was a very difficult challenge for me and took considerable hours including reaching out to TA's(thank you to Nick and Mo), class mates, office hours, online research (https://stackoverflow.com/, https://docs.microsoft.com/en-us/office/vba/Language/Concepts/Getting-Started/understanding-visual-basic-syntax and https://excelchamps.com/vba/subscript-out-of-range-error-9/ as online examples. I also reached out out to Ask BCS. The final error was due to the missplaced ending of an nested if. 
 ### Conclusion
 --
 While the results of refractoring were considerably quicker approximately 1 second for each years analysis. The amount of effort that was created by redoing the code utimately lead me to consider in this case that it was not necessary to change to refractoring. If the file was considerably larger and the lessons drawn from the troubleshooting were applied it might be advantageous to use this method on future larger projects. 
