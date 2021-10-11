@@ -25,7 +25,7 @@ The refractored script produced the following results, 2017 results were deliver
 --
 -The orginal script coding was easier on multiple issues and data to reflect how to build the code was methodical. The course work did a good job of explaining the process and how to develop the final results. This sequential step by step process was possible to follow.
 
--The refractoring challenge reinforced the concepts developed during the course work. This was an extremely difficult challenge for me and took considerable hours including reaching out to TA's, class mates, office hours, online research and reaching out to Ask BCS. The final error was due to the missplaced setting of the nested if in section3(d). Mo did an excellent job of helping me through this last issue. 
+-The refractoring challenge reinforced the concepts developed during the course work. This was an extremely difficult challenge for me and took considerable hours including reaching out to TA's, class mates, office hours, online research and reaching out to Ask BCS. One of the key errors were due to the missplaced setting of the nested if in section3(d). Mo did an excellent job of helping me through this issue. Additionally on the 2nd assignment submission, an entire section of code was missing making the code inoperable. This issue is now resolved. 
 The final code can be viewed below:
 
 
