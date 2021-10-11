@@ -122,11 +122,16 @@ End Sub
   I also performed an independent review of refractoring. As personal experiance to this point was challenged. I reviewed the following thesis: https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=11597&context=theses on __Conceptions of Refractoring.__ I also reviewed refractoring on stacked overflow. From https://stackoverflow.com/questions/20624340/what-is-refactoring __Advantages include improved code readability and reduced complexity to improve the maintainability of the source code, as well as a more expressive internal architecture or object model to improve extensibility.__ Also this quote in the same thread. __“Refactoring is the process of changing a software system in such a way that it does not alter the external behavior of the code, yet improves its internal structure. It is a disciplined way to clean up code that minimizes the chances of introducing bugs. In essence when you refactor you are improving the design of the code after it has been written.” - Martin Fowler (Father of Code Smell)__ Martin Fowler is often quoted in many of the sites I reviewed on the concept of refractoring. 
   
 ### Conclusion
---From https://stackoverflow.com/questions/20624340/what-is-refactoring __ https://stackoverflow.com/users/3703904/masud-shrabon __
-__The purposes of refactoring according to M. Fowler are stated in the following:
+From https://stackoverflow.com/questions/20624340/what-is-refactoring __ https://stackoverflow.com/users/3703904/masud-shrabon __
 
-__1. Refactoring Improves the Design of Software
-__2. Refactoring Makes Software Easier to Understand
-__3. Refactoring Helps Finding Bugs
-__4. Refactoring Helps Programming Faster__
+"The purposes of refactoring according to M. Fowler are stated in the following:
+
+1. Refactoring Improves the Design of Software
+
+2. Refactoring Makes Software Easier to Understand
+
+3. Refactoring Helps Finding Bugs
+
+4. Refactoring Helps Programming Faster"
+
 The refractoring process was challenging for me. Given the additional resources reviewed. The increase in file size, and having debugged the file multiple times. There are advantages of refractoring beyond a speed aspect. My initial review was limited on the speed concept with the amount of work that was put into the file development. 
