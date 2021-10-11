@@ -125,8 +125,8 @@ End Sub
 --From https://stackoverflow.com/questions/20624340/what-is-refactoring __ https://stackoverflow.com/users/3703904/masud-shrabon __
 __The purposes of refactoring according to M. Fowler are stated in the following:
 
-__Refactoring Improves the Design of Software
-Refactoring Makes Software Easier to Understand
-Refactoring Helps Finding Bugs
-Refactoring Helps Programming Faster__
+__1. Refactoring Improves the Design of Software
+__2. Refactoring Makes Software Easier to Understand
+__3. Refactoring Helps Finding Bugs
+__4. Refactoring Helps Programming Faster__
 The refractoring process was challenging for me. Given the additional resources reviewed. The increase in file size, and having debugged the file multiple times. There are advantages of refractoring beyond a speed aspect. My initial review was limited on the speed concept with the amount of work that was put into the file development. 
